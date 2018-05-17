@@ -1,3 +1,14 @@
 {
-    "envs": []
+    "envs": [
+        {
+            "name": "cf",
+            "config_repo_url": "git@github.com:dabr-grapeup/fortress.git",
+            "config_repo_branch": "master",
+            "auth": {
+                "github_users": [
+                    {"name": "dabr-grapeup"}
+                ]
+            }
+        }
+    ]
 }
