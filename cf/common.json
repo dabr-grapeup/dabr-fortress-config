@@ -23,7 +23,7 @@
     {"name": "bosh_state_bucket_name", "value": "bosh-state.dabr.cflab.grapeup.com"},
     {"name": "bosh_state_filename", "value": "state.json"},
   
-    {"name": "jumpbox_private_key", "fortress_var": "jumpbox-devops"},
+    {"name": "jumpbox_private_key", "fortress_var": "jumpbox_private_key"},
   
     {"name": "system_domain", "value": "dabr.cflab.grapeup.com"},
   
