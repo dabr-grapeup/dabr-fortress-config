@@ -20,6 +20,7 @@
         {"name": "backups_s3_secret_key", "fortress_var": "aws_secret_key"},
         {"name": "s3_access_key", "fortress_var": "aws_access_key"},
         {"name": "s3_secret_key", "fortress_var": "aws_secret_key"},
-        {"name": "s3_region", "value": "eu-west-2"}
+        {"name": "s3_region", "value": "eu-west-2"},
+        {"name": "kubo_release", "value": "s3://dabr-bosh-releases/kubo/kubo-beta.tgz"}
     ]
 }
