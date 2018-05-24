@@ -1,6 +1,6 @@
 {
   "repo_url": "git@github.com:grapeup/gu_docker_images.git",
-  "repo_version": "k8s_support",
+  "repo_version": "master",
   "repo_private_key_var_name": "git_private_key",
 
   "pipelines": [
