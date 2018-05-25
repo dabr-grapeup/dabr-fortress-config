@@ -1,5 +1,5 @@
 {
-    "repo_url": "git@github.com:grapeup/gu_cf_infrastructure_aws_deployment.git",
+    "repo_url": "git@github.com:dabr-grapeup/gu_k8s_infrastructure_aws_deployment.git",
     "repo_version": "master",
     "repo_private_key_var_name": "git_private_key",
 
